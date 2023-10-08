@@ -1,4 +1,7 @@
 import AdminDashboard from "./AdminDashboard";
-import UpdateDetails from "./UpdateDetails";
+import WelcomeScreen from "./WelcomeScreen";
+import LoginScreen from "./LoginScreen";
+import SignupScreen from "./SignupScreen";
 
-export {AdminDashboard, UpdateDetails};
+
+export {AdminDashboard, WelcomeScreen,LoginScreen,SignupScreen};
